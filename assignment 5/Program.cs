@@ -119,12 +119,7 @@ namespace assignment_5
             Console.WriteLine(Maths.divide(5, 4));
 
             #endregion
-            #region question 3
 
-
-            Duration duration = new Duration(666);
-            Console.WriteLine(duration.ToString());
-            #endregion
         }
     }
 }
